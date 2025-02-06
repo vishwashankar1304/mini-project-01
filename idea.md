@@ -1,6 +1,6 @@
 # project idea
 
-|details |Column2  |Column3  |Column4  |
+|sno |Column2  |Column3  |Column4  |
 |---------|---------|---------|---------|
-|Row1     |         |         |         |
-|Row2     |         |         |         |
+|1     |         |         |         |
+|2     |         |         |         |
